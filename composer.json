@@ -1,0 +1,14 @@
+{
+    "name": "jaxwilko/wn-opcachepreload-plugin",
+    "type": "winter-plugin",
+    "description": "Winter CMS support for opcache preloading",
+    "homepage": "https://github.com/jaxwilko/wn-opcachepreload-plugin",
+    "keywords": ["winter", "cms"],
+    "authors": [
+        {
+            "name": "Jack Wilkinson",
+            "email": "me@jackwilky.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
