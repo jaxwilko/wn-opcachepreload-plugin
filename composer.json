@@ -10,5 +10,6 @@
             "email": "me@jackwilky.com"
         }
     ],
+    "license": "MIT",
     "minimum-stability": "dev"
 }
